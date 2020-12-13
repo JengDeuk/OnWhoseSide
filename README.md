@@ -30,7 +30,7 @@
 4. <img src="img/Shop_DiggingSpeed.png" width="100"></img><img src="img/Packman_DiggingSpeed1.png" width="100"></img>아이템파밍속도
 
 # 아이템
-- <img src="img/Item_Box.png" width="100"></img>맵 내에 무작위로 50개의 아이템박스가 리스폰 됩니다.
+- 맵 내에 무작위로 50개의 <img src="img/Item_Box.png" width="100"></img>아이템박스가 리스폰 됩니다.
 - 하나의 아이템박스는 네 종류의 아이템 중 한가지를 가지고 있습니다.
 1. <img src="img/Item_Gold1.png" width="100"></img>골드
 2. <img src="img/Item_Kill1.png" width="100"></img>킬 - 3초 (공격범위 내의 다른 플레이어를 처치할 수 있습니다.) / 킬 사용도중 (파밍, 실드사용) 불가
