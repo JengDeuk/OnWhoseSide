@@ -7,17 +7,20 @@
 
 # 소개영상
 - [소개영상 링크](https://youtu.be/46_cu-_8Zhc)
+<br>
 
 # 멀티플레이(MainGame) 다운로드 및 실행
 1. [다운로드 링크](https://drive.google.com/file/d/13nw_n8hRJnKJYjkftJxZBEu5yOul1XGy/view?usp=sharing)에서 실행파일을 다운로드 받습니다.
 2. 스팀계정에 로그인합니다.
 3. 에픽게임즈(언리얼)계정에 로그인합니다.
 4. 파일을 우클릭한 상태에서 'Launch game'을 눌러 실행합니다. <img src="실행방법.png"></img>
+<br>
 
 # 싱글플레이(TestGame) 연습모드 다운로드
 1. [다운로드 링크](https://drive.google.com/file/d/1yKH8SlB0oJSTq-BgL8BJpKaiJWM39fhF/view?usp=sharing)에서 실행파일을 다운로드 받습니다.
 2. 테스트용 싱글플레이게임으로 게임 시작과 동시에 9개의 움직이지 않는 봇이 랜덤생성됩니다.
 3. 아이템 파밍과 사용, 봇과의 상호작용, 어빌리티 강화와 상인과의 상호작용을 테스트해볼 수 있습니다.
+<br>
 
 # 조작방법
 - <img src="img/RedHat_Digging_5.png" width="150"></img><img src="img/Wolf_Digging_5.png" width="150"></img><img src="img/StrangeMan_Digging_5.png" width="150"></img>아이템 파밍 - Shift (꾹 누르기)
