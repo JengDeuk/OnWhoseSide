@@ -1,5 +1,5 @@
 # OnWhoseSide
-<center><img src="title.png" width="480" height="270" alt="Logo"></img>
+<center><img src="Title.png"></img>
 </center>
 <br>
 
@@ -8,4 +8,6 @@
 
 # 1. 다운로드 및 실행
 1. [다운로드 링크](https://drive.google.com/drive/u/1/folders/0AJciAAKm1yGcUk9PVA)에서 실행파일을 다운로드 받습니다.
-2. 스팀계정에 로그인한 후 파일을 우클릭한 상태에서 'Launch game'을 눌러 실행합니다. <img src="실행방법.png"></img>
+2. 스팀계정에 로그인합니다.
+3. 에픽게임즈(언리얼)계정에 로그인합니다.
+4. 파일을 우클릭한 상태에서 'Launch game'을 눌러 실행합니다. <img src="실행방법.png"></img>
