@@ -13,7 +13,7 @@
 4. 파일을 우클릭한 상태에서 'Launch game'을 눌러 실행합니다. <img src="실행방법.png"></img>
 
 # 조작방법
-아이템 파밍 - Shift
-아이템 선택 - Alt
-아이템 사용 - Ctrl
-어빌리티 강화 (상점에서 골드 사용) - SpaceBar
+1. 아이템 파밍 - Shift
+2. 아이템 선택 - Alt
+3. 아이템 사용 - Ctrl
+4. 어빌리티 강화 (상점에서 골드 사용) - SpaceBar
