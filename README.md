@@ -19,6 +19,7 @@
 - 아이템 선택 - Alt
 - 아이템 사용 - Ctrl
 - 어빌리티 강화 (상점에서 골드 사용) - SpaceBar
+<br>
 
 # 어빌리티 레벨
 - 각 어빌리티마다 1~5의 레벨이 존재합니다.
@@ -28,6 +29,7 @@
 2. <img src="img/Shop_KillRange.png" width="100"></img><img src="img/Packman_KillRange1.png" width="100"></img>공격범위
 3. <img src="img/Shop_Movement.png" width="100"></img><img src="img/Packman_Movement1.png" width="100"></img>이동속도
 4. <img src="img/Shop_DiggingSpeed.png" width="100"></img><img src="img/Packman_DiggingSpeed1.png" width="100"></img>아이템파밍속도
+<br>
 
 # 아이템
 - 맵 내에 무작위로 50개의 <img src="img/Item_Box.png" width="100"></img>아이템박스가 리스폰 됩니다.
@@ -36,6 +38,7 @@
 2. <img src="img/Item_Kill1.png" width="100"></img>킬 - 3초 (공격범위 내의 다른 플레이어를 처치할 수 있습니다.) / 킬 사용도중 (파밍, 실드사용) 불가
 3. <img src="img/Item_Shield1.png" width="100"></img>실드 - 3초 (다른 플레이어의 킬 아이템을 무효시킬 수 있습니다.) / 실드 사용도중 (파밍, 킬사용) 불가
 4. <img src="img/Item_Scanner1.png" width="100"></img>스캐너 - 8초 (시야범위 내의 다른 플레이어의 팀을 구별할 수 있습니다.)
+<br>
 
 # 게임규칙
 1. 게임시작
