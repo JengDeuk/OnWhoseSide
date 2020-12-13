@@ -15,7 +15,7 @@
 4. 파일을 우클릭한 상태에서 'Launch game'을 눌러 실행합니다. <img src="실행방법.png"></img>
 
 # 조작방법
-- 아이템 파밍 - Shift (꾹 누르기)
+- <img src="img/RedHat_Digging_5.png" width="150"></img><img src="img/Wolf_Digging_5.png" width="150"></img><img src="img/StrangeMan_Digging_5.png" width="150"></img>아이템 파밍 - Shift (꾹 누르기)
 - 아이템 선택 - Alt
 - 아이템 사용 - Ctrl
 - 어빌리티 강화 (상점에서 골드 사용) - SpaceBar
@@ -24,18 +24,18 @@
 - 각 어빌리티마다 1~5의 레벨이 존재합니다.
 - 그리고 각 어빌리티에 따른 상인이 존재하며 상인에게서 레벨에 따른 골드 차감 및 강화가 가능합니다.
 - 어빌리티 강화 당 골드 차감 n->n+1(n골드)
-1. 시야범위
-2. 공격범위
-3. 이동속도
-4. 아이템파밍속도
+1. <img src="img/Shop_VisualField.png" width="100"></img><img src="img/Packman_VisualField1.png" width="100"></img>시야범위
+2. <img src="img/Shop_KillRange.png" width="100"></img><img src="img/Packman_KillRange1.png" width="100"></img>공격범위
+3. <img src="img/Shop_Movement.png" width="100"></img><img src="img/Packman_Movement1.png" width="100"></img>이동속도
+4. <img src="img/Shop_DiggingSpeed.png" width="100"></img><img src="img/Packman_DiggingSpeed1.png" width="100"></img>아이템파밍속도
 
 # 아이템
-- 맵 내에 무작위로 50개의 아이템박스가 리스폰 됩니다.
+- <img src="img/Item_Box.png" width="100"></img>맵 내에 무작위로 50개의 아이템박스가 리스폰 됩니다.
 - 하나의 아이템박스는 네 종류의 아이템 중 한가지를 가지고 있습니다.
-1. 골드
-2. 킬 - 3초 (공격범위 내의 다른 플레이어를 처치할 수 있습니다.) / 킬 사용도중 (파밍, 실드사용) 불가
-3. 실드 - 3초 (다른 플레이어의 킬 아이템을 무효시킬 수 있습니다.) / 실드 사용도중 (파밍, 킬사용) 불가
-4. 스캐너 - 8초 (시야범위 내의 다른 플레이어의 팀을 구별할 수 있습니다.)
+1. <img src="img/Item_Gold1.png" width="100"></img>골드
+2. <img src="img/Item_Kill1.png" width="100"></img>킬 - 3초 (공격범위 내의 다른 플레이어를 처치할 수 있습니다.) / 킬 사용도중 (파밍, 실드사용) 불가
+3. <img src="img/Item_Shield1.png" width="100"></img>실드 - 3초 (다른 플레이어의 킬 아이템을 무효시킬 수 있습니다.) / 실드 사용도중 (파밍, 킬사용) 불가
+4. <img src="img/Item_Scanner1.png" width="100"></img>스캐너 - 8초 (시야범위 내의 다른 플레이어의 팀을 구별할 수 있습니다.)
 
 # 게임규칙
 1. 게임시작
