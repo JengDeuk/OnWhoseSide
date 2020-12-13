@@ -1,7 +1,6 @@
 # OnWhoseSide
-<center><img src="Title.png"></img>
+<center><img src="img/Title.png"></img>
 </center>
-<br>
 
 **OnWhoseSide**는 외형으로 상대가 어떤 팀인지 알 수 없는 '빨간모자vs늑대'의 팀술래잡기 멀티플레이 게임입니다.
 <br><br>
