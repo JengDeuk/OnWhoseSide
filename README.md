@@ -6,6 +6,9 @@
 **OnWhoseSide**는 외형으로 상대가 어떤 팀인지 알 수 없는 '빨간모자vs늑대'의 팀술래잡기 멀티플레이 게임입니다.
 <br><br>
 
+# 소개영상
+- [링크](https://youtu.be/46_cu-_8Zhc)
+
 # 다운로드 및 실행
 1. [다운로드 링크](https://drive.google.com/file/d/13nw_n8hRJnKJYjkftJxZBEu5yOul1XGy/view?usp=sharing)에서 실행파일을 다운로드 받습니다.
 2. 스팀계정에 로그인합니다.
