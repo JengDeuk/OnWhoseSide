@@ -7,7 +7,7 @@
 <br><br>
 
 # 소개영상
-- [링크](https://youtu.be/46_cu-_8Zhc)
+- [소개영상 링크](https://youtu.be/46_cu-_8Zhc)
 
 # 다운로드 및 실행
 1. [다운로드 링크](https://drive.google.com/file/d/13nw_n8hRJnKJYjkftJxZBEu5yOul1XGy/view?usp=sharing)에서 실행파일을 다운로드 받습니다.
