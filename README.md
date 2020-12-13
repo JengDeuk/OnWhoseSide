@@ -23,7 +23,7 @@
 <br>
 
 # 조작방법
-- 캐릭터 이동 - 
+- 캐릭터 이동 - 방향키
 - <img src="img/RedHat_Digging_5.png" width="150"></img><img src="img/Wolf_Digging_5.png" width="150"></img><img src="img/StrangeMan_Digging_5.png" width="150"></img>아이템 파밍 - Shift (꾹 누르기)
 - 아이템 선택 - Alt
 - 아이템 사용 - Ctrl
