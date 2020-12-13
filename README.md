@@ -32,7 +32,7 @@
 
 # 어빌리티 레벨
 - 각 어빌리티마다 1~5의 레벨이 존재합니다.
-- 그리고 각 어빌리티에 따른 상인이 존재하며 상인에게서 레벨에 따른 골드 차감 및 강화가 가능합니다.
+- 각 어빌리티에 따른 상인이 존재하며 상인에게서 레벨에 따른 골드 차감 및 강화가 가능합니다.
 - 어빌리티 강화 당 골드 차감 n->n+1(n골드)
 1. <img src="img/Shop_VisualField.png" width="100"></img><img src="img/Packman_VisualField1.png" width="100"></img>시야범위
 2. <img src="img/Shop_KillRange.png" width="100"></img><img src="img/Packman_KillRange1.png" width="100"></img>공격범위
