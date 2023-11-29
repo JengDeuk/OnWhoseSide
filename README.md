@@ -1,4 +1,6 @@
 # OnWhoseSide
+2020-2 게임PX디자인 프로젝트
+
 <center><img src="img/Title.png"></img>
 </center>
 
